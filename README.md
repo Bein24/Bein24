@@ -40,7 +40,7 @@
 
 ------
 
-[minzdat](https://github.com/minzdat?tab=repositories)
+[Nguyen Duc Tri](https://github.com/DDT0204)
 
 Last Edited on: 28/11/2021
 
