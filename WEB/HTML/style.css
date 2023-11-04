@@ -1,0 +1,23 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+.box1{    
+    background-color: rgb(0, 153, 255);
+}
+.box1 .ti{
+    position: relative  ;
+}
+.box1 .tle{
+    position: relative;
+    top: 0px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    text-decoration: inherit;
+    text-decoration: underline rgb(0,153,255);
+
+}
+
