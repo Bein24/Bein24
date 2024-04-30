@@ -14,7 +14,7 @@
 
 - 📝 I'm learning C/C++/C# 
 
-- 📑 All of my projects are available at [Nguyen Duc Tri](https://github.com/DDT0204)
+- 📑 All of my projects are available at [Nguyen Duc Tri](https://github.com/Bein24)
 
 
 
