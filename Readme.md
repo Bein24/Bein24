@@ -24,7 +24,3 @@
 ------
 
 [Nguyen Duc Tri](https://github.com/DDT0204)
-
-Last Edited on: 28/11/2021
-
-](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg)
