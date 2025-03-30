@@ -4,7 +4,8 @@
 </h1>  
 
 <p align="center">  
-  <img src="https://github.com/nductri24/nductri24/blob/main/banner.png" width="100%">  
+  A Game Developer
+   <img src="https://i.imgur.com/Ak5jzjR.jpeg" width="80%">  
 </p>  
 
 ## 🎮 About Me  
