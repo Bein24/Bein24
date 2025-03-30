@@ -49,6 +49,10 @@
 <p align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryunt24&theme=radical" alt="GitHub Activity Graph"/>  
 </p>
+## 🏆 GitHub Achievements  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryunt24&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies"/>  
+</p>
 
 
  
