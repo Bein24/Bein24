@@ -12,7 +12,7 @@
 
 - 🧑‍💻 I'm starting with coding
 
-- 📝 I'm learning C/C++/C# 
+- 📝 I'm learning C# and Unity
 
 - 📑 All of my projects are available at [Nguyen Duc Tri](https://github.com/Bein24)
 
