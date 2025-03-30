@@ -51,11 +51,8 @@
 </p>
 ## 🏆 GitHub Achievements  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryunt24&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies"/>  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryunt24&theme=gruvbox&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>  
 </p>
-
-
- 
 
 ---
 
