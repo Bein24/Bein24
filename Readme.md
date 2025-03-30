@@ -45,6 +45,10 @@
   <br>  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryunt24&layout=compact&theme=radical" width="400px" alt="Top Languages"/>  
 </p>
+## 📊 GitHub Activity  
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryunt24&theme=radical" alt="GitHub Activity Graph"/>  
+</p>
 
 
  
