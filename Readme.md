@@ -40,11 +40,12 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=nductri24&show_icons=true&theme=radical" width="400px" alt="GitHub Stats"/>  
-  <img src="https://streak-stats.demolab.com/?user=nductri24&theme=radical" width="400px" alt="GitHub Streak"/>  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nductri24&show_icons=true&theme=radical" width="400px" alt="GitHub Stats"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nductri24&theme=radical" width="400px" alt="GitHub Streak"/>  
   <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nductri24&layout=compact&theme=radical" width="400px" alt="Top Languages"/>  
-</p>  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nductri24&layout=compact&theme=radical" width="400px" alt="Top Languages"/>  
+</p>
+
  
 
 ---
