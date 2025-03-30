@@ -3,9 +3,9 @@
   Hi there! I'm <strong>nductri24</strong> 👾  
 </h1>  
 
-<p align="center">  
-  A Game Developer
-</p>  
+<h2 align="center">  
+  🚀 <strong>A GAME DEVELOPER</strong> 🎮  
+</h2>  
 
 ## 🎮 About Me  
 🚀 **Game Developer with Unity**  
