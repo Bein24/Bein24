@@ -1,8 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Nguyen Duc Tri</h1>
 <h3 align="center">Nice to see you !</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bein24" alt="bein24" /></a> </p>
+
+- 📝 I'm learning **C#, Unity**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Bein24?tab=repositories](https://github.com/Bein24?tab=repositories)
+
+- 📫 Contact me **nductri24@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,10 +25,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bein24&" alt="bein24" /></p>
 
 
-
 ------
 
 [Nguyen Duc Tri](https://github.com/DDT0204)
 
 Last Edited on: 28/11/2021
 
+](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg)
