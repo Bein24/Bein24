@@ -5,7 +5,6 @@
 
 <p align="center">  
   A Game Developer
- <img src="https://i.imgur.com/vC7jGUC.jpeg" width="80%">  
 </p>  
 
 ## 🎮 About Me  
