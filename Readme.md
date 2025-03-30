@@ -13,6 +13,9 @@
 💻 **Passionate about game development and programming**  
 📫 **Contact me:** [nductri24@gmail.com](mailto:nductri24@gmail.com)  
 
+## 🖥️ Portfolio  
+🚀 Check out my portfolio: **[Nguyen Duc Tri - Portfolio](https://ryunt24.github.io/)**
+
 ---
 
 ## 🚀 Tech Stack  
